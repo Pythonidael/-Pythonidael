@@ -1,4 +1,4 @@
-# Halo, Saya Erlanggam! 👋
+# Halo, Saya Erlangga! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Erlanggam&color=brightgreen)
 [![LinkedIn](https://img.shields.io/badge/-Erlanggam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erlanggam/)
