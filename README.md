@@ -1,6 +1,6 @@
-# Halo, Saya Erlangga! 👋
+# Halo, Saya Erlangga! ●
 
-[![LinkedIn](https://img.shields.io/badge/-Erlanggam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erlangga-dwi-putra-b01a76218/)
+[![LinkedIn](https://img.shields.io/badge/-Erlangga-Dwi-Putra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erlangga-dwi-putra-b01a76218/)
 
 ## Tentang Saya
 
@@ -10,15 +10,8 @@ Saya adalah seorang pengembang perangkat lunak dengan spesialisasi dalam Java Sp
 
 - **Bahasa Pemrograman:** Java, SQL
 - **Framework:** Spring (Spring Boot, Spring MVC)
-- **Database:** MySQL, PostgreSQL
-
-
-## Statistik GitHub
-
-![Statistik GitHub Pythonidael](https://github-readme-stats.vercel.app/api?username=Pythonidael&show_icons=true&hide_border=true)
-![Bahasa Pemrograman Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pythonidael&layout=compact)
-
+- **Database:** MySQL, SQL Server
 
 ## Hubungi Saya
 
-- [Email](mailto:erlanggadp20@gmail.com)
+- erlanggadp20@gmail.com
