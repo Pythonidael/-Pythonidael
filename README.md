@@ -14,4 +14,4 @@ Saya adalah seorang pengembang perangkat lunak dengan spesialisasi dalam Java Sp
 
 ## Hubungi Saya
 
-- erlanggadp20@gmail.com
+- [Email](mailto:erlanggadp20@gmail.com)
