@@ -1,6 +1,6 @@
 # Halo, Saya Erlangga! ●
 
-[![LinkedIn](https://img.shields.io/badge/-Erlangga-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erlangga-dwi-putra-b01a76218/)
+[![LinkedIn](https://img.shields.io/badge/-Erlangga-gray?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erlangga-dwi-putra-b01a76218/)
 
 ## Tentang Saya
 
