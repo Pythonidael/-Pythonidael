@@ -1,8 +1,6 @@
 # Halo, Saya Erlangga! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Erlanggam&color=brightgreen)
 [![LinkedIn](https://img.shields.io/badge/-Erlanggam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erlangga-dwi-putra-b01a76218/)
-[![GitHub followers](https://img.shields.io/github/followers/Erlanggam?label=Follow&style=social)](https://github.com/Erlanggam)
 
 ## Tentang Saya
 
@@ -24,5 +22,3 @@ Saya adalah seorang pengembang perangkat lunak dengan spesialisasi dalam Java Sp
 ## Hubungi Saya
 
 - [Email](mailto:erlanggadp20@gmail.com)
-- [LinkedIn]([https://www.linkedin.com/in/erlanggam/](https://www.linkedin.com/in/erlangga-dwi-putra-b01a76218/)
-- [Website](https://erlanggam.com)
